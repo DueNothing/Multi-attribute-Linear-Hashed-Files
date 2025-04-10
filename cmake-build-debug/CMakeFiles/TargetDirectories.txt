@@ -1,0 +1,3 @@
+/home/xyw/CLionProjects/COMP9315_25T1_Ass02/cmake-build-debug/CMakeFiles/COMP9315_25T1_Ass02.dir
+/home/xyw/CLionProjects/COMP9315_25T1_Ass02/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/xyw/CLionProjects/COMP9315_25T1_Ass02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
